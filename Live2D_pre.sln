@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Live2D_pre", "Live2D_pre.csproj", "{AC3756FF-9A49-1300-9366-A240D105FB9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Live2D_pre.Editor", "Live2D_pre.Editor.csproj", "{1B45ABCF-2772-5B12-E900-22FD21FF95B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC3756FF-9A49-1300-9366-A240D105FB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3756FF-9A49-1300-9366-A240D105FB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3756FF-9A49-1300-9366-A240D105FB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3756FF-9A49-1300-9366-A240D105FB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B45ABCF-2772-5B12-E900-22FD21FF95B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B45ABCF-2772-5B12-E900-22FD21FF95B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B45ABCF-2772-5B12-E900-22FD21FF95B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B45ABCF-2772-5B12-E900-22FD21FF95B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
